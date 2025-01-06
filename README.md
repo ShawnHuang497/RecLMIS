@@ -21,6 +21,7 @@
 
 
 # 🔥 Updates
+- 2025-01-06: We release the trained model.
 - 2024-12-23: We release the code.
 - 2024-04-05: We release the paper and code link.
 
