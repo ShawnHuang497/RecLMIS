@@ -32,7 +32,7 @@ os.environ["CUDA_VISIBLE_DEVICES"] = args.gpu
 
 if args.cfg_path == "Config_monuseg":
     import Config_monuseg as config
-elif args.cfg_path == "Config_Kvasir_Clinic":
+elif args.cfg_path == "Config_MosMedPlus":
     import Config_MosMedPlus as config
 else:
     import Config_covid19 as config

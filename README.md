@@ -64,6 +64,9 @@ pip install -r requirements.txt
 sh train.sh 0 Config_xxx
 ```
 
+# 🍑Trained Model
+- Covid19: [Google Drive](https://drive.google.com/file/d/1SEj361mYZqAZ2fYJfFquMVxjv3d6RqKm/view?usp=drive_link)
+- MedMosplus: [Google Drive](https://drive.google.com/file/d/1IcclC7Gi0RBmWPj-JMM2qI2w4CHbxtuc/view?usp=drive_link)
 # 🥭 Test
 ```Shell
 python test.py --cfg_path Config_xxx --test_session session_09.25_00h27 --gpu {0} --test_vis {True}
